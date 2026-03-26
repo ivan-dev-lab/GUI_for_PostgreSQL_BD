@@ -1,0 +1,1 @@
+"""Planting material accounting application."""
